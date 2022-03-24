@@ -11,7 +11,7 @@ Rather than creating a full-blown scaffold in which to try and
 reproduce, one of the files here can be taken, adjusted, and gisted as 
 an example case for the bug you want fixed.
 
-`runhaskell minimal.hs`
+`runhaskell Minimal.hs`
 
 I will do my best to keep these compiling on the latest development 
 snapshot of yesod -- but I certainly appreciate any help here in the 
